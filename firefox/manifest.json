@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Video Time Copier",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Copies start/end times of videos.",
     "permissions": [
         "activeTab",
